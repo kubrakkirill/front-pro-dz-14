@@ -1,0 +1,17 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+#slider{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+img{
+    max-width: 500px;
+    max-height: 300px;
+}
+.hidden{
+    display: none;
+}
